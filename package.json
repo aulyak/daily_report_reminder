@@ -1,0 +1,16 @@
+{
+  "name": "daily_report_reminder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kintone/rest-api-client": "^4.1.0",
+    "axios": "^1.4.0",
+    "js-base64": "^3.7.5"
+  }
+}
